@@ -1,1 +1,2 @@
 samle testing of git
+Same text for QA branch
